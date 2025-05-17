@@ -13,15 +13,15 @@
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/211922401?v=4" alt="서지민" width="100" height="100"></td>
-    <td><img src="https://img1.daumcdn.net/thumb/C428x428/?scode=mtistory2&fname=https%3A%2F%2Ftistory1.daumcdn.net%2Ftistory%2F7224957%2Fattach%2F26cd175460d64d5f89cd2025a28baca8" alt="오재현" width="100" height="100"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/81346079?v=4" alt="오재현" width="100" height="100"></td>
     <td><img src="https://avatars.githubusercontent.com/u/135437908?v=4" alt="임재영" width="100" height="100"></td>
-    <td><img src="https://blog.kakaocdn.net/dn/bheSYb/btrCNNwtkUv/WBdKVM4VjGlodkWRVcezKK/img.jpg" alt="황지원" width="100" height="100"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/211936705?v=4" alt="황지원" width="100" height="100"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/agreenroom">@agreenroom</a></td>
     <td><a href="https://github.com/jody816">@jody816</a></td>
     <td><a href="https://github.com/stitch0304">@stitch0304</a></td>
-    <td><a href="#">@황지원</a></td>
+    <td><a href="https://github.com/JIWON2025">@JIWON2025</a></td>
   </tr>
 </table>
 
